@@ -15,6 +15,7 @@ function App() {
       <Person name = 'Saddam Hossen' img={image3}></Person>
       <Person name = 'Sourov Devhnath' img={image4}></Person>
       <Person name = 'ChekaKwa Bapparaj' img={image4}></Person>
+      <Person name = 'ChekaKwa Bapparaj' img={image4}></Person>
 
     </div>
   
